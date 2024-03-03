@@ -1,4 +1,4 @@
-This is the folder for the computation of Coleman integrals on the modular curve defined by the normaliser of the nonsplit Cartan subgroup X_ns^+(13).
+This is the folder for the computation of Coleman integrals on the modular curve defined by the normaliser of the nonsplit Cartan subgroup X_ns^+(13) in Example 4.3.1.
 
 - ```zywina.m``` is a Magma file containing a slight modification of Zywina's implementation of computing the action of slash-k operators.
 - ```modpoly11.txt``` is a text file containing the coefficients of the modular polynomial at p=11. This is obtained from Sutherland's database of modular polynomials.
